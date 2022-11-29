@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.jpamis.gruvboxtheme
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

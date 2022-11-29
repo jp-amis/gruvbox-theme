@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jpamis.gruvboxtheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jpamis.gruvboxtheme.MyBundle
 
 class MyApplicationService {
 
